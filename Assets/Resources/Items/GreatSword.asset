@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91225ddbd72d3704d9728edf539a8c65, type: 3}
+  m_Name: GreatSword
+  m_EditorClassIdentifier: 
+  itemName: GreatSword
+  itemType: 0
+  itemIcon: {fileID: 21300000, guid: dec10d6d5f7a3fc43970ca2461c2e732, type: 3}
+  attackBonus: 10
+  defenseBonus: 5
+  hpBonus: 0
+  critBonus: 0
